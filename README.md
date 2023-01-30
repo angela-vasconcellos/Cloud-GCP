@@ -67,4 +67,4 @@
 7. Por fim, inserimos as <b>APis</b> dentro das máquinas privadas, instalamos todos os pacotes necessários (python, mysql, pip, flask e flask-mysqldb). Com tudo instalado, podemos rodar o arquivo python e visualizar no navegador.
 
 
-ex3.PNG
+![ex3](https://user-images.githubusercontent.com/116106336/215564341-182159db-5d2f-4979-896f-44df315ad3d1.PNG)
